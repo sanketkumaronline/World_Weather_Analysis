@@ -22,7 +22,7 @@ Jack and beta testers loved the PlanMyTrip app but they had a couple of suggesti
 * Stored the above mentioned weather data in a CSV file `WeatherPy_Database.csv`
 
 **Snapshot of DataFrame exported to WeatherPy_Database.csv:**
-![weather_database](./images/weather_database.png)
+![city_weather_dataframe_screenshot](./Weather_Database/city_weather_dataframe_screenshot.png)
 
 ### Deliverable 2
 
@@ -35,7 +35,7 @@ Jack and beta testers loved the PlanMyTrip app but they had a couple of suggesti
 * Created marker layer map that have pop-up markers for each city on the map showing Hotel Name, City, Country, and Current Weather (combination of Current Description and Max Temp)
 
 **Snapshot of DataFrame exported to WeatherPy_vacation.csv:**
-![vacation_search](./Images/vacation_search.png)
+![hotel_database_screenshot](./Vacation_Search/hotel_database_screenshot.png)
 **Marker Layer Map With Pop-up Markers:**
 ![WeatherPy_vacation_map](./Vacation_Search/WeatherPy_vacation_map.png)
 ### Deliverable 3
